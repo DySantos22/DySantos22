@@ -1,6 +1,6 @@
-### Olá!! Eu sou o Dyllan Santos, apaixonado pela programação e estou terminando meu Técnico 😉
+## Olá!! Eu sou o Dyllan Santos, apaixonado pela programação e estou terminando meu Técnico em Informática 😉
 
-##
+###
 
 
 <div align="center">
@@ -17,7 +17,8 @@
 </div>
   
   ##
-  <div> 
+  
+  <div align="center"> 
   <a href="https://www.instagram.com/_dysantoos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dyllanlima17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/dyllan-lima-5a8248233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
