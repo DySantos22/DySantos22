@@ -21,8 +21,5 @@
  <a href="https://discord.gg/Dy_scxxt#4922" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dyllanlima17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/dyllan-lima-5a8248233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
- 
-  ![Snake animation](https://github.com/DySantos22/DySantos22/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
