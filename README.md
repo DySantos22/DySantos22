@@ -1,4 +1,5 @@
-### Olá!! Eu sou o Dyllan Santos 😉
+### Olá!! Eu sou o Dyllan Santos, apaixonado pela programação e estou terminando meu Técnico 😉
+
 ##
 
 
