@@ -14,6 +14,7 @@
   <img align="center" alt="Dy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dy-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Dy-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">        
+  <img align="center" alt="Dy-Java" height="50" width="60" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/java.svg">    
 </div>
   
   ##
