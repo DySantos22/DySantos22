@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Dyllan Santos, apaixonado pela programação e estou terminando meu Técnico em Informática 😉
+## Olá!! Eu sou o Dyllan Santos e atualmente estou finalizando meu Técnico em Informática.
 
 ###
 
@@ -14,7 +14,7 @@
   <img align="center" alt="Dy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dy-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Dy-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">        
-  <img align="center" alt="Dy-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?short_path=d4bbd1c   ">
+  <img align="center" alt="Dy-Java" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?short_path=d4bbd1c   ">
 </div>
   
   ##
