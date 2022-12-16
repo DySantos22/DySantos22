@@ -8,15 +8,16 @@
   
 </div>
 
+<!-- Commits and Stars -->
 <div align="center">
   <a href="https://github.com/DySantos22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DySantos22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DySantos22&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-
-  
+ 
+  <!-- Linguagens de programação -->
 <div style="display: inline_block" align="center">
+  <h2>Linguagens </h2>
   <img align="center" alt="Dy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,11 +26,12 @@
   <img align="center" alt="Dy-Java" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg?short_path=d4bbd1c   ">
 </div>
   
-  ##
-  
-  <div align="center"> 
+ <!-- Minhas redes sociais -->
+ <div align="center"> 
+  <h2>Redes Sociais</h2>
   <a href="https://www.instagram.com/_dysantoos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dyllanlima17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/dyllan-lima-5a8248233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+***************
