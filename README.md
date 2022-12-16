@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Dyllan Santos e atualmente estou finalizando meu Técnico em Informática.
+## Olá!! Eu sou o Dyllan Santos
 
 ###
 
